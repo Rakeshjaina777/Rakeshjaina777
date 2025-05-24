@@ -41,6 +41,10 @@ B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshjaina777&layout=compact&theme=tokyonight) -->
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Rakeshjaina777&theme=tokyonight&no-frame=true&exclude=issues,prs,review)
+
+
+
 
 ---
 
