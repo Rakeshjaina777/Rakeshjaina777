@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi, I'm **Rakesh Jain** 👋  
-Final Year CSE student at **IIIT Surat**, deeply passionate about scalable backend systems, clean architecture, and performance-driven API development.
+B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable backend systems, clean architecture, and performance-driven API development.
 
-- 🔧 Currently contributing as a **Backend Intern** at **Meril** (NestJS, PostgreSQL, Redis, Kafka, JWT)
-- 🔍 Actively building **robust REST/GraphQL APIs** with a focus on security, caching, and modular design
+- 🔧 Currently contributing as a **Backend Intern** at **Meril** (NestJS, PostgreSQL, Redis, Kafka, JWT,Flutter)
+- 🔍 Actively building **60+ production APIs REST/GraphQL APIs** with a focus on security, caching, and modular design
 - 💡 Exploring **distributed systems**, **Golang**, and **event-driven architectures**
-- 📱 Previously built production-ready mobile apps in Flutter — now shifting core focus to **backend engineering**
+- 📱 Previously built production-ready mobile apps in Flutter
 - 🧠 Solved over **1000+ DSA problems**; sharp problem-solving mindset
 
 ---
@@ -54,7 +54,7 @@ Final Year CSE student at **IIIT Surat**, deeply passionate about scalable backe
 
 ## 💼 Internship Experience:
 ### 🔹 **Backend Intern @ Meril** `Jan 2025 – Present`
-- Developed **60+ production APIs** with NestJS, PostgreSQL, Prisma, and Redis
+- Built robust, high-performance APIs with NestJS and integrated PostgreSQL, Prisma ORM, and Redis caching for optimized data handling
 - Used Kafka & RabbitMQ for async flows and Redis for caching
 - Implemented secure JWT-based role auth, DTO validation, guards, modular folder structure
 
@@ -66,8 +66,6 @@ Final Year CSE student at **IIIT Surat**, deeply passionate about scalable backe
 ### 🔹 **Flutter-Firebase Intern @ Practicz Buzz**
 - Built production-grade mobile app using Provider, Secure Storage, Firebase Auth
 
-### 🔹 **Data Analytics Intern @ SSIP**
-- Performed basic EDA & business insight generation using Excel + Python
 
 ---
 
@@ -83,8 +81,10 @@ Final Year CSE student at **IIIT Surat**, deeply passionate about scalable backe
 ---
 
 ## 📚 DSA Profiles:
-- [LeetCode (300+ problems)](https://leetcode.com/u/victorycool/)
+- [Coding PortFolio (1050+ problems)](https://codolio.com/profile/nyzPR1R6)
 - [GeeksForGeeks (600+ problems)](https://auth.geeksforgeeks.org/user/victoryloeg/)
+- [LeetCode (300+ problems)](https://leetcode.com/u/victorycool/)
+
 
 ---
 
