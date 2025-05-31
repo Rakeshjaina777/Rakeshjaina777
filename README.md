@@ -82,6 +82,12 @@ user engagement by 15% with an intuitive and accessible UI.
 - Modules: Product, Order, Payment, Auth, Report, Analytics
 - Used RabbitMQ for async jobs, PDF & CSV generation, GraphQL filters
 
+ ##  📱 SmartSelect (LapKart):
+- Flutter app using MVC architecture with clean state separation
+- SQLite for offline data storage, #SecureStorage for token handling
+- Integrated #Dio for REST APIs and #Firebase for notifications, auth, and analytics
+- Helps students find laptops based on #budget, #usage, and #performance needs
+
 ### 🔏 **SecureAuth Boilerplate**
 - A backend template for JWT-based role authentication, refresh tokens, RBAC, DTO validation
 
