@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi, I'm **Rakesh Jain** 👋  
-B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable backend systems, clean architecture, and performance-driven API development.
+B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable **Backend Systems** and **App Technology**, clean architecture, and performance-driven API development.
 
-- 🔧 Currently contributing as a **Backend Intern** at **Meril** (NestJS, PostgreSQL, Redis, Kafka, JWT,Flutter)
+- 🔧 Contributing to the **Backend and App Development** team at **Meril**( NestJS, PostgreSQL, Flutter, Redis, Graphql and  Kafka).
 - 🔍 Actively building **60+ production APIs REST/GraphQL APIs** with a focus on security, caching, and modular design
+- - 📱 Built 2 production-ready mobile apps in Flutter for Playstore and AppStore
 - 💡 Exploring **distributed systems**, **Golang**, and **event-driven architectures**
-- 📱 Previously built production-ready mobile apps in Flutter
 - 🧠 Solved over **1000+ DSA problems**; sharp problem-solving mindset
 
 ---
@@ -49,7 +49,7 @@ B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable 
 ---
 
 ## 🏆 Achievements:
-- 🥇 **3x Hackathon Winner** — DevHeat, Idea to MVP, NIT Rourkela
+- 🥇 **2x Hackathon Winner** — DevHeat, Idea to MVP
 - 🧠 Solved **1000+ DSA problems** (GFG, Leetcode, CodeChef)
 - 🛠️ Built APIs that improved system performance by **20–25%** in internship
 - 📈 Delivered backend projects with scalable modules, filters, caching & messaging queues
@@ -57,18 +57,21 @@ B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable 
 ---
 
 ## 💼 Internship Experience:
-### 🔹 **Backend Intern @ Meril** `Jan 2025 – Present`
+### 🔹 **Software Developer Intern(Backend -Flutter) @ Meril** `Jan 2025 – Present`
 - Built robust, high-performance APIs with NestJS and integrated PostgreSQL, Prisma ORM, and Redis caching for optimized data handling
 - Used Kafka & RabbitMQ for async flows and Redis for caching
 - Implemented secure JWT-based role auth, DTO validation, guards, modular folder structure
+- Developing a cross-platform SaaS-based doctor-client management app, leveraging AI-driven insights to enhance
+user engagement by 15% with an intuitive and accessible UI.
 
 ### 🔹 **Software Developer Intern @ LAPKART** `Aug 2022 – Jan 2023`
-- Built 20+ APIs with NestJS + PostgreSQL
+- Launched a user-centric application that streamlines the laptop selection process for students, integrating affiliate links
+- Built 20+ APIs with NestJS-Node JS + PostgreSQL
 - Designed secure token flows with DTO, middleware, guards
 - Used Swagger & Postman extensively for collaboration & testing
 
 ### 🔹 **Flutter-Firebase Intern @ Practicz Buzz**
-- Built production-grade mobile app using Provider, Secure Storage, Firebase Auth
+- Built production-grade mobile app using Provider, Secure Storage, SQLITE, Firebase Auth
 
 
 ---
