@@ -4,7 +4,7 @@ B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable 
 
 - 🔧 Contributing to the **Backend and App Development** team at **Meril**( NestJS, PostgreSQL, Flutter, Redis, Graphql and  Kafka).
 - 🔍 Actively building **60+ production APIs REST/GraphQL APIs** with a focus on security, caching, and modular design
-- - 📱 Built 2 production-ready mobile apps in Flutter for Playstore and AppStore
+- 📱 Built 2 production-ready mobile apps in Flutter for Playstore and AppStore
 - 💡 Exploring **distributed systems**, **Golang**, and **event-driven architectures**
 - 🧠 Solved over **1000+ DSA problems**; sharp problem-solving mindset
 
