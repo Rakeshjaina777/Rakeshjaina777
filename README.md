@@ -77,10 +77,10 @@ user engagement by 15% with an intuitive and accessible UI.
 ---
 
 ## 💻 Featured Backend Projects:
-### 🛒 **NestMart (E-Commerce Backend)**
-- REST + GraphQL APIs with Prisma, PostgreSQL, Redis
-- Modules: Product, Order, Payment, Auth, Report, Analytics
-- Used RabbitMQ for async jobs, PDF & CSV generation, GraphQL filters
+### 🧾 **Billingo (Billing Software Backend)**
+- REST + GraphQL APIs with TypeORM, PostgreSQL, Redis  
+- Modules: Shop, User, Item, Invoice, Payment, Analytics  
+- Used RabbitMQ for async jobs, PDF & CSV generation, GraphQL filters/search  
 
  ##  📱 SmartSelect (LapKart):
 - Flutter app using MVC architecture with clean state separation
