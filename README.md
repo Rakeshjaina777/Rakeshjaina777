@@ -60,15 +60,12 @@ B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable 
 ### 🔹 **Software Developer Intern(Backend -Flutter) @ Meril** `Jan 2025 – Present`
 - Built robust, high-performance APIs with NestJS and integrated PostgreSQL, Prisma ORM, and Redis caching for optimized data handling
 - Used Kafka & RabbitMQ for async flows and Redis for caching
-- Implemented secure JWT-based role auth, DTO validation, guards, modular folder structure
 - Developing a cross-platform SaaS-based doctor-client management app, leveraging AI-driven insights to enhance
 user engagement by 15% with an intuitive and accessible UI.
 
 ### 🔹 **Software Developer Intern @ LAPKART** `Aug 2022 – Jan 2023`
 - Launched a user-centric application that streamlines the laptop selection process for students, integrating affiliate links
 - Built 20+ APIs with NestJS-Node JS + PostgreSQL
-- Designed secure token flows with DTO, middleware, guards
-- Used Swagger & Postman extensively for collaboration & testing
 
 ### 🔹 **Flutter-Firebase Intern @ Practicz Buzz**
 - Built production-grade mobile app using Provider, Secure Storage, SQLITE, Firebase Auth
@@ -76,23 +73,7 @@ user engagement by 15% with an intuitive and accessible UI.
 
 ---
 
-## 💻 Featured Backend Projects:
-### 📞 **Spam Detection & Caller ID API (Truecaller Clone)**
-- REST + GraphQL APIs with Prisma, PostgreSQL, Redis  
-- Modules: Auth, Contact, Spam Report, Search, User Profile  
-- Used RabbitMQ & Kafka (in progress) for async messaging, Prisma for DB access, role-based access control, and microservices architecture  
 
-
- ##  📱 SmartSelect (LapKart):
-- Flutter app using MVC architecture with clean state separation
-- SQLite for offline data storage, #SecureStorage for token handling
-- Integrated #Dio for REST APIs and #Firebase for notifications, auth, and analytics
-- Helps students find laptops based on #budget, #usage, and #performance needs
-
-### 🔏 **SecureAuth Boilerplate**
-- A backend template for JWT-based role authentication, refresh tokens, RBAC, DTO validation
-
----
 
 ## 📚 DSA Profiles:
 - [Coding PortFolio (1050+ problems)](https://codolio.com/profile/nyzPR1R6)
