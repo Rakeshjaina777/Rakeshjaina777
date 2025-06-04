@@ -59,7 +59,6 @@ B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable 
 ## 💼 Internship Experience:
 ### 🔹 **Software Developer Intern(Backend -Flutter) @ Meril** `Jan 2025 – Present`
 - Built robust, high-performance APIs with NestJS and integrated PostgreSQL, Prisma ORM, and Redis caching for optimized data handling
-- Used Kafka & RabbitMQ for async flows and Redis for caching
 - Developing a cross-platform SaaS-based doctor-client management app, leveraging AI-driven insights to enhance
 user engagement by 15% with an intuitive and accessible UI.
 
