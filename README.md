@@ -77,10 +77,11 @@ user engagement by 15% with an intuitive and accessible UI.
 ---
 
 ## 💻 Featured Backend Projects:
-### 🧾 **Billingo (Billing Software Backend)**
-- REST + GraphQL APIs with TypeORM, PostgreSQL, Redis  
-- Modules: Shop, User, Item, Invoice, Payment, Analytics  
-- Used RabbitMQ for async jobs, PDF & CSV generation, GraphQL filters/search  
+### 📞 **Spam Detection & Caller ID API (Truecaller Clone)**
+- REST + GraphQL APIs with Prisma, PostgreSQL, Redis  
+- Modules: Auth, Contact, Spam Report, Search, User Profile  
+- Used RabbitMQ & Kafka (in progress) for async messaging, Prisma for DB access, role-based access control, and microservices architecture  
+
 
  ##  📱 SmartSelect (LapKart):
 - Flutter app using MVC architecture with clean state separation
