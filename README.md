@@ -2,7 +2,7 @@
 Hi, I'm **Rakesh Jain** 👋  
 B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable **Backend Systems** and **App Technology**, clean architecture, and performance-driven API development.
 
-- 🔧 Contributing to the **Backend and App Development** team at **Meril**( NestJS, PostgreSQL, Flutter, Redis, Graphql and  Kafka).
+- 🔧 Contributing to the **Backend and App Development** team at **Medha-AI**( Java,Springboot ,Node JS, NestJS, PostgreSQL, Redis, and  Kafka).
 - 🔍 Actively building **60+ production APIs REST/GraphQL APIs** with a focus on security, caching, and modular design
 - 📱 Built 2 production-ready mobile apps in Flutter for Playstore and AppStore
 - 💡 Exploring **distributed systems**, **Golang**, and **event-driven architectures**
@@ -56,19 +56,27 @@ B.Tech in Computer Science – **IIIT Surat**, deeply passionate about scalable 
 
 ---
 
-## 💼 Internship Experience:
-### 🔹 **Software Developer Intern(Backend -Flutter) @ Meril** `Jan 2025 – Present`
-- Built robust, high-performance APIs with NestJS and integrated PostgreSQL, Prisma ORM, and Redis caching for optimized data handling
-- Developing a cross-platform SaaS-based doctor-client management app, leveraging AI-driven insights to enhance
-user engagement by 15% with an intuitive and accessible UI.
+## 💼 Experience
 
-### 🔹 **Software Developer Intern @ LAPKART** `Aug 2022 – Jan 2023`
-- Launched a user-centric application that streamlines the laptop selection process for students, integrating affiliate links
-- Built 20+ APIs with NestJS-Node JS + PostgreSQL
+### 🔹 Backend Software Engineer | Medha Analytics Platform - Narayana Health `Oct 2025 – Present`
 
-### 🔹 **Flutter-Firebase Intern @ Practicz Buzz**
-- Built production-grade mobile app using Provider, Secure Storage, SQLITE, Firebase Auth
+🏆 **Performance & Scalability Star Award | Narayana Health | 2026**
 
+* Achieved **15× latency reduction (4.8s → 350ms)** by redesigning read paths, eliminating N+1 queries, implementing composite indexes, and optimizing Redis caching.
+* Engineered **Java (Spring Boot)** and **Node.js** microservices for **YASA**, an analytics and operational platform serving multiple internal applications.
+* Prevented cache stampede under peak traffic through Redis caching strategies, query optimization, and database indexing.
+* Worked extensively with PostgreSQL, Redis, REST APIs, authentication systems, and distributed backend architectures.
+
+---
+
+### 🔹 Backend Engineering Intern | BIK.AI (YC W2020) `Jul 2025 – Oct 2025`
+
+* Contributed to backend systems within the Campaign Pod, processing **millions of messages** via external APIs including Meta and Google Ads.
+* Optimized the Overview Analytics API, reducing latency from **3s to 550ms (85% faster)**.
+* Developed deployment orchestration services integrating AWS event-driven triggers and real-time Slack alerts.
+* Worked with **Elasticsearch**, **Google Pub/Sub**, **AWS**, and scalable analytics pipelines.
+
+---
 
 ---
 
